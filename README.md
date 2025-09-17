@@ -31,7 +31,7 @@ The **Employee Management System (EMS)** is a Java-based web application that he
 1. Clone the repository:
 
    bash
-   git clone https://github.com/your-username/Employee_Management_System.git
+   git clone https://github.com/Swapniljare/Employee_Management_System.git
  
 2. Import the project into **Eclipse/IntelliJ** as a Maven project.
 3. Create MySQL database:
